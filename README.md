@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SriChaitanyaDeepikaLoya
-- 👀 I’m interested in Programming languages,Machine Learning, Artificial intelligence  
+- 👀 I’m interested in Programming languages,Machine Learning,Data Science,Artificial Intelligence  
 - 🌱 I’m currently learning Data analytics...
 - 📫 How to reach me ... @chaitanyadeepika.loya@gmail.com
 
